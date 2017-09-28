@@ -1,0 +1,3 @@
+[submodule "Assets/AWSSDK"]
+	path = Assets/AWSSDK
+	url = https://github.com/SweetDigitalEntertainment/aws-sdk.git
